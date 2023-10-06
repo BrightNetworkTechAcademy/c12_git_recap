@@ -20,6 +20,7 @@ public class SecretNumber {
             System.out.println("Correct!");
         }
 
+        // Woo new lines for Git!
     }
 
 }
